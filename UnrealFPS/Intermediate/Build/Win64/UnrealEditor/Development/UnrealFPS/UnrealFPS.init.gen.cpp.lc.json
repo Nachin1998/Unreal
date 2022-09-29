@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\repos\\unreal\\unreal\\unrealfps\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealfps\\unrealfps.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\repos\\unreal\\unreal\\unrealfps\\intermediate\\build\\win64\\unrealfpseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\repos\\unreal\\unreal\\unrealfps\\intermediate\\build\\win64\\unrealeditor\\development\\unrealfps\\definitions.unrealfps.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

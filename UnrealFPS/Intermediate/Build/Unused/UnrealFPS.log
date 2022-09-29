@@ -1,0 +1,18 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\Nacho\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (D:\Repos\Unreal\Unreal).
+  Invalidating makefile for UnrealFPSEditor (source file removed)
+  Building UnrealFPSEditor...
+  Using Visual Studio 2019 14.29.30145 toolchain (D:\Visual Studio\2019\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+    Executing up to 6 processes, one per physical core
+    Requested 1,5 GB free memory per action, 7,34 GB available: limiting max parallel actions to 4
+  Building 4 actions with 4 processes...
+  [1/4] Compile UnrealFPS.cpp
+  [2/4] Link UnrealEditor-UnrealFPS.lib
+     Creando biblioteca D:\Repos\Unreal\Unreal\UnrealFPS\Intermediate\Build\Win64\UnrealEditor\Development\UnrealFPS\UnrealEditor-UnrealFPS.lib y objeto D:\Repos\Unreal\Unreal\UnrealFPS\Intermediate\Build\Win64\UnrealEditor\Development\UnrealFPS\UnrealEditor-UnrealFPS.exp
+  [3/4] Link UnrealEditor-UnrealFPS.dll
+     Creando biblioteca D:\Repos\Unreal\Unreal\UnrealFPS\Intermediate\Build\Win64\UnrealEditor\Development\UnrealFPS\UnrealEditor-UnrealFPS.suppressed.lib y objeto D:\Repos\Unreal\Unreal\UnrealFPS\Intermediate\Build\Win64\UnrealEditor\Development\UnrealFPS\UnrealEditor-UnrealFPS.suppressed.exp
+  [4/4] WriteMetadata UnrealFPSEditor.target
+  Total time in Parallel executor: 26,58 seconds
+  Total execution time: 29,61 seconds

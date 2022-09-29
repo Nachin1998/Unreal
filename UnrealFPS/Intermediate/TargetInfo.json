@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealFPS",
+			"Path": "D:\\Repos\\Unreal\\Unreal\\UnrealFPS\\Source\\UnrealFPS.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealFPSEditor",
+			"Path": "D:\\Repos\\Unreal\\Unreal\\UnrealFPS\\Source\\UnrealFPSEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UnrealFPS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Repos\Unreal\Unreal\UnrealFPS\Intermediate\Build\Win64\UnrealFPSEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Repos\Unreal\Unreal\UnrealFPS\Intermediate\Build\Win64\UnrealEditor\Development\UnrealFPS\CollectableActions.cpp.obj"
+"D:\Repos\Unreal\Unreal\UnrealFPS\Intermediate\Build\Win64\UnrealEditor\Development\UnrealFPS\UnrealFPS.cpp.obj"
+"D:\Repos\Unreal\Unreal\UnrealFPS\Intermediate\Build\Win64\UnrealEditor\Development\UnrealFPS\CollectableActions.gen.cpp.obj"
+"D:\Repos\Unreal\Unreal\UnrealFPS\Intermediate\Build\Win64\UnrealEditor\Development\UnrealFPS\UnrealFPS.init.gen.cpp.obj"
+"D:\Repos\Unreal\Unreal\UnrealFPS\Intermediate\Build\Win64\UnrealEditor\Development\UnrealFPS\Default.rc2.res"
+/OUT:"D:\Repos\Unreal\Unreal\UnrealFPS\Intermediate\Build\Win64\UnrealEditor\Development\UnrealFPS\UnrealEditor-UnrealFPS.lib"

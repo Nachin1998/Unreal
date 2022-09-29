@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\repos\\unreal\\unreal\\unrealfps\\source\\unrealfps\\collectablesactions.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\repos\\unreal\\unreal\\unrealfps\\intermediate\\build\\win64\\unrealfpseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\repos\\unreal\\unreal\\unrealfps\\intermediate\\build\\win64\\unrealeditor\\development\\unrealfps\\definitions.unrealfps.h",
+            "d:\\repos\\unreal\\unreal\\unrealfps\\source\\unrealfps\\collectablesactions.h",
+            "d:\\repos\\unreal\\unreal\\unrealfps\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealfps\\collectablesactions.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
