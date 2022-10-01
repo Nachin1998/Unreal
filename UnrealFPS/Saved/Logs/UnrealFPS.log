@@ -3023,3 +3023,16 @@ Script call stack:
 [2022.10.01-00.50.43:606][406]LogContentValidation: Display: Validating BP_Collectable_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Collectable_C_UAID_1C1B0DE30834263B01_1102962160
 [2022.10.01-00.50.43:606][406]LogContentValidation: Display: Validating BP_Collectable_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Collectable_C_UAID_1C1B0DE308348A3B01_1827091751
 [2022.10.01-00.50.43:606][406]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_1C1B0DE308348C3B01_2005280112
+[2022.10.01-00.54.37:273][911]LogSlate: Window 'BP_Enemy' being destroyed
+[2022.10.01-00.54.37:284][911]LogSlate: Window 'BP_Enemy' being destroyed
+[2022.10.01-00.54.37:297][911]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.10.01-00.54.37:298][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-00.54.37:475][911]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.01-00.54.37:475][911]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.10.01-00.54.37:475][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-00.54.37:670][911]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.01-00.54.37:670][911]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.01-00.54.37:670][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.01-00.54.37:756][911]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.01-00.54.37:756][911]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.10.01-00.54.37:756][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
